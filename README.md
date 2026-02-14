@@ -2,7 +2,7 @@
 
 A practical, production-ready guide to building, scaling, and governing AI agents for the enterprise.
 
-The goal of this cohort is to learn everything from first principles—why something exists and the problem it solves. This is a hands-on program. Every week, you will build a usable application.
+The goal of this cohort is to learn everything from first principles, why something exists and the problem it solves. This is a hands-on program. Every week, you will build a usable application.
 
 ---
 
@@ -14,7 +14,7 @@ We begin with the fundamentals. You will build a **Customer Support Bot** that u
 
 ### What You Will Gain
 
-* **Agentic Foundations:** Move beyond simple prompts and understand what an **Agent** is—function calling, tools, memory, and the agent loop.
+* **Agentic Foundations:** Move beyond simple prompts and understand what an **Agent** is — function calling, tools, memory, and the agent loop.
 * **Tool Integration:** Learn how to give your agent capabilities, such as searching documents, so it can provide grounded, factual answers.
 * **Memory & Context:** Understand how to manage **Sessions** and **State** so your bot remembers what was said earlier in the conversation.
 * **Google ADK Deep Dive:** Get hands-on experience with the Google Agent Development Kit (ADK) to build, test, and deploy your first agentic system.
@@ -48,7 +48,7 @@ This week, we move beyond conversational bots and build a **Retail Strategy Agen
 ### What You Will Learn
 
 * **The “Why” of MCP:** The problem MCP is designed to solve.
-* **The “How” of MCP:** A deep dive into its architecture—client, server, tools, resources, and prompts—and how to build your own MCP servers.
+* **The “How” of MCP:** A deep dive into its architecture — client, server, tools, resources, and prompts, and how to build your own MCP servers.
 * **Skill Composition:** Writing structured instructions that go beyond basic prompting.
 * **Plugins:** What they are and how they accelerate integrations.
 
@@ -112,7 +112,7 @@ Complexity should be invisible to the user. By the end of this week, you will mo
 
 This week focuses on enabling agents to operate within real financial systems using industry standards: **Agentic Commerce Protocol (ACP)**, **Universal Commerce Protocol (UCP)**, and **Agent Payments Protocol (AP2)**.
 
-We enhance the Concierge Agent so it doesn’t just coordinate orders—it completes transactions securely.
+We enhance the Concierge Agent so it doesn’t just coordinate orders, it completes transactions securely.
 
 ### What You Will Gain
 
@@ -129,13 +129,13 @@ We enhance the Concierge Agent so it doesn’t just coordinate orders—it compl
 
 1. **Checkout Negotiation:** The Orchestrator uses UCP or ACP to confirm pricing and terms.
 2. **Payment Authorization:** You issue a one-time mandate via AP2, setting clear spending limits.
-3. **Settlement:** The agent generates a shared payment token, completes the transaction, and stores the receipt—without manual checkout steps.
+3. **Settlement:** The agent generates a shared payment token, completes the transaction, and stores the receipt without manual checkout steps.
 
 ---
 
 ### Key Takeaway
 
-Money represents the ultimate action. By the end of this week, you will understand how agents move from analysis to execution—finding, negotiating, and paying within defined guardrails.
+Money represents the ultimate action. By the end of this week, you will understand how agents move from analysis to execution, finding, negotiating, and paying within defined guardrails.
 
 ---
 
